@@ -1,0 +1,30 @@
+{
+  "name": "nextjs-login-page",
+  "version": "1.0.0",
+  "description": "A simple login page using Next.js, Tailwind CSS, and shadcn/ui",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@shadcn/ui": "latest",
+    "framer-motion": "^4.1.17",
+    "next": "latest",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-hook-form": "^7.22.5",
+    "react-query": "^3.34.6",
+    "tailwindcss": "^2.2.19"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "typescript": "^4.5.4"
+  },
+  "license": "MIT",
+  "author": ""
+}
